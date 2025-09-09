@@ -63,6 +63,16 @@
   </a><br>
   <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
   <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
+</a><br>
+<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg"
+    alt="mongoose"
+    width="40"
+    height="40"
+  />
 </a>
+
+
 
 </p>
