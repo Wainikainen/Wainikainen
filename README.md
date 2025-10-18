@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adam Wainikainen</h1>
-<h3 align="center">Early-Career Full-Stack Software Engineer</h3>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
 - 💻 I love building web apps and experimenting with new technologies  
-- 🌱 I’m currently learning **Full-Stack Software Engineering**  
+- 🌱 I’m a **Junior Full-Stack Software Engineer**  
 - ⚡ Fun fact: I love exploring new programming languages and frameworks  
 - 🎯 Goal: Develop advanced AI applications and write high-performance, clean code  
 - 📫 How to reach me **awainikainen@gmail.com**
+- 🌐 Portfolio: [adam-wainikainen.vercel.app](https://adam-wainikainen.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
